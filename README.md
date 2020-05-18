@@ -4,5 +4,5 @@
 This project was carried out with a group of friends during the course. 
 
 
-The site allows create account, where we can add recipes for favorite dishes,
+The site is a place, where you can add recipes for favorite dishes,
 diet plans, as well as use those created by other users.
